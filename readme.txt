@@ -6,5 +6,6 @@ Now I have a dietributed version control system
 Creating a branch is quick
 Creating a new branch is quick AND simple
 This is branch-master does
+It is to mange the branches
 
 
